@@ -131,7 +131,7 @@ Run all cells to view the analysis and results.
 
 # Author
 Name: Prathamesh Murkute
-Task: PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING - Task 3
+Task: DASHBOARD DEVELOPMENT - Task 3
 Platform: Google Colab
 
 # License
